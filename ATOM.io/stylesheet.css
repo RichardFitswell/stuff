@@ -1,0 +1,39 @@
+
+*{
+ background: ;
+ text-align: center;
+}
+h1{
+  border-left: 200px solid  rgba(192, 192, 192, .1);
+   border-right: 200px solid  rgba(192, 192, 192, .1);
+ font-size: 36px;
+ font: helvetica;
+ color: darkslategrey;
+ background-color: rgba(192, 192, 192, .9);
+position:  fixed;
+margin-top: 0;
+
+
+
+}
+p{
+ font: arial;
+color:  rgba(192, 192, 192, .8);
+ background-color:  rgb(192, 160, 75);
+
+}
+body{
+ margin-top: 0px;
+}
+
+
+h3{  border-left: 200px solid  rgba(192, 192, 192, .3);
+   border-right: 200px solid  rgba(192, 192, 192, .3);
+ font-size: 36px;
+ font: helvetica;
+ color: darkslategrey;
+ background-color: rgba(192, 192, 192, .9);
+position:  fixed;
+margin-bottom: 0;
+
+}
